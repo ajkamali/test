@@ -17,6 +17,7 @@ For this project, I was interestested in using Stack Overflow data from 2018 to 
 1. What are the programming languages popularity and their trend between Stack Overflow users in the last five years?
 2. What is the most desired programming languages to learn in the future?
 3. Is academic level a factor in choosing programming languages?
+4. Running a linear regresion model for predicting salaries for 2022 and identifying the most important features.
 
 
 
